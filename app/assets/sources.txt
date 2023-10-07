@@ -1,0 +1,10 @@
+https://github.com/ShiftyTR/Proxy-List/blob/master/http.txt
+https://github.com/ShiftyTR/Proxy-List/blob/master/https.txt
+https://github.com/ShiftyTR/Proxy-List/blob/master/proxy.txt
+https://github.com/ShiftyTR/Proxy-List/blob/master/socks4.txt
+https://github.com/ShiftyTR/Proxy-List/blob/master/socks5.txt
+https://github.com/TheSpeedX/PROXY-List/blob/master/http.txt
+https://github.com/TheSpeedX/PROXY-List/blob/master/socks4.txt
+https://github.com/TheSpeedX/PROXY-List/blob/master/socks5.txt
+https://spys.me/socks.txt
+https://spys.me/proxy.txt
